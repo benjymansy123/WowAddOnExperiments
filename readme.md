@@ -11,3 +11,7 @@ https://wowwiki-archive.fandom.com/wiki/AddOn_programming_tutorial/Introduction
 https://wowwiki-archive.fandom.com/wiki/Global_functions?oldid=2308624
 
 https://github.com/Fiurs-Hearth/WIIIUI
+
+https://www.wowinterface.com/downloads/info13126-Warcrafty.html [https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-general/wow-ui-macros-talent-specs/264250-warcrafty-wc3-wow-ui.html]
+
+https://www.reddit.com/r/wow/comments/1s41k0/my_warcraft_iii_inspired_ui_anyone_interested_in/
